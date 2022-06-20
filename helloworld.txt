@@ -1,3 +1,4 @@
 hello git   我修改了
 hello git   我又修改了
+hello git    master updated
 hello git
